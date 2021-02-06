@@ -1,0 +1,7 @@
+# Below is the code coverage report
+---
+BoardCreation.java: 93.7%
+CheckWinner.java: 96.7%
+TicTacToeApplication.java: 82.8%
+TicTacToeApplicationTest.java:89.4%
+---
